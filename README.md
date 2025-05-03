@@ -4,3 +4,5 @@
 ![School](https://github.com/user-attachments/assets/f45ed596-e4ef-4dd9-8703-2c9e926b19d8)
 ![Ausessocietylogo](https://github.com/user-attachments/assets/f7a2c82c-e1cc-4680-820d-bbb8fc311d83)
 ![shiraz](https://github.com/user-attachments/assets/70231344-837a-4eb2-b74c-1d0df26f1a1e)
+![blue](https://github.com/user-attachments/assets/eade8c49-b0a8-44f9-8bc4-7dfd8ee54bdd)
+![white](https://github.com/user-attachments/assets/4a948c6c-7761-4498-bec4-7f28e6c2a826)
