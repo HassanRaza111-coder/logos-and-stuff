@@ -7,4 +7,11 @@
 ![blue](https://github.com/user-attachments/assets/eade8c49-b0a8-44f9-8bc4-7dfd8ee54bdd)
 ![white](https://github.com/user-attachments/assets/4a948c6c-7761-4498-bec4-7f28e6c2a826)
 ![Three.js](https://github.com/user-attachments/assets/7ccf0de6-6d05-4453-b279-8e9f019151e4)
+![canva](https://github.com/user-attachments/assets/cd3d3257-a027-4a52-af4e-5cd4f23c7d0a)
+![googlecollab](https://github.com/user-attachments/assets/a0d7fa66-999b-458a-ac08-b9f74eab42d6)
+![bootstrap](https://github.com/user-attachments/assets/63992c1e-8cf7-4fc8-aa82-278e58eed826)
+![cloudinary](https://github.com/user-attachments/assets/22c0b57c-28dd-440d-85a9-6cf530d744a1)
+![slenium](https://github.com/user-attachments/assets/18077f93-82fa-4195-9a8a-2ae2b4e2538a)
+![beautifulsoap](https://github.com/user-attachments/assets/6d3daa8e-d172-478c-b49a-58db9ef242ed)
+![scrapy](https://github.com/user-attachments/assets/3cac815c-a095-4949-9222-152e029fbd9d)
 
