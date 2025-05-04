@@ -14,4 +14,6 @@
 ![slenium](https://github.com/user-attachments/assets/18077f93-82fa-4195-9a8a-2ae2b4e2538a)
 ![beautifulsoap](https://github.com/user-attachments/assets/6d3daa8e-d172-478c-b49a-58db9ef242ed)
 ![scrapy](https://github.com/user-attachments/assets/3cac815c-a095-4949-9222-152e029fbd9d)
+![beautifulsoap](https://github.com/user-attachments/assets/c501f725-f17d-43f9-bfe7-c67394b5d263)
+
 
